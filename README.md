@@ -1,2 +1,2 @@
 # SCProject
-Our Semester Project
+Our Semester Project for software construction course.
